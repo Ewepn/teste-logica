@@ -1,0 +1,20 @@
+{
+	"name": "teste-avaliativo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "questao2-fibonacci.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ewepn/teste-logica.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ewepn/teste-logica/issues"
+	},
+	"homepage": "https://github.com/Ewepn/teste-logica#readme"
+}
