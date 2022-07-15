@@ -11,7 +11,7 @@
 //A função menorMaiorLucro faz a verificação do menor e maior valor recebido do mês
 //A função compararFaturamento compara se o lucro dos dias foram maiores do que a média mensal
 
-const listaDeFaturamento = require("./questao3json"); //recebendo o array do arquivo questao3json.js
+const listaDeFaturamento = require("./questao3json"); //recebendo o Objeto do arquivo questao3json.js
 let valorRendaDiaria = new Array();
 let diaDaRenda = new Array();
 
